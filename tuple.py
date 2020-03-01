@@ -1,0 +1,6 @@
+t=(1,2,3,4)
+l=list(t)
+l.remove(2)
+print(l)
+t=tuple(l)
+print(t)

@@ -1,0 +1,10 @@
+l=[10,20,30.3,'hello','fruit']
+print(l)
+print(type(l))
+print(l[2])
+print(l[-3])
+print(l[1:3])
+l.append(10)
+print(l)
+l.remove('hello')
+print (l)
